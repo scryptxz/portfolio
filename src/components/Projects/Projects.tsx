@@ -31,7 +31,7 @@ export default function Projects() {
     {
       title: "GuessYourLyrics",
       image: GuessYourLyrics,
-      rep: "https://github.com/ScryptRG/guess-your-lyrics",
+      rep: "https://github.com/scryptxz/guess-your-lyrics",
       demo: "https://guessyourlyrics.vercel.app",
       alt: "Interface do projeto GuessYourLyrics",
       tools: "https://skillicons.dev/icons?i=angular,ts",
@@ -39,7 +39,7 @@ export default function Projects() {
     {
       title: "GuessYourTrack",
       image: GuessYourTrack,
-      rep: "https://github.com/ScryptRG/guess-your-track",
+      rep: "https://github.com/scryptxz/guess-your-track",
       demo: "https://guessyourtrack.vercel.app",
       alt: "Interface do projeto GuessYourTrack",
       tools: "https://skillicons.dev/icons?i=react,js",
@@ -47,7 +47,7 @@ export default function Projects() {
     {
       title: "Rankify",
       image: Rankify,
-      rep: "https://github.com/ScryptRG/rankify",
+      rep: "https://github.com/scryptxz/rankify",
       demo: "https://rankify-me.netlify.app",
       alt: "Interface do projeto Rankify",
       tools: "https://skillicons.dev/icons?i=react,ts",
@@ -63,7 +63,7 @@ export default function Projects() {
     {
       title: "Adoptify",
       image: Adoptify,
-      rep: "https://github.com/ScryptRG/adoptify",
+      rep: "https://github.com/scryptxz/adoptify",
       demo: "https://adoptify-renanl15.vercel.app",
       alt: "Interface do projeto Adoptify",
       tools: "https://skillicons.dev/icons?i=react,js",
@@ -71,7 +71,7 @@ export default function Projects() {
     {
       title: "Bertioga",
       image: Bertioga,
-      rep: "https://github.com/ScryptRG/site-bertioga",
+      rep: "https://github.com/scryptxz/site-bertioga",
       demo: "https://bertioga.vercel.app",
       alt: "Interface do projeto Bertioga",
       tools: "https://skillicons.dev/icons?i=html,js",
@@ -79,7 +79,7 @@ export default function Projects() {
     {
       title: "Danganracters",
       image: Danganfellas,
-      rep: "https://github.com/ScryptRG/danganracters",
+      rep: "https://github.com/scryptxz/danganracters",
       demo: "https://danganracters.vercel.app",
       alt: "Interface do projeto Danganracters",
       tools: "https://skillicons.dev/icons?i=react,js",
@@ -87,7 +87,7 @@ export default function Projects() {
     {
       title: "NextDictionary",
       image: NextDictionary,
-      rep: "https://github.com/ScryptRG/NextDictionary",
+      rep: "https://github.com/scryptxz/NextDictionary",
       demo: "https://next-dictionary-project.vercel.app",
       alt: "Interface do projeto NextDictionary",
       tools: "https://skillicons.dev/icons?i=html,js",
@@ -95,7 +95,7 @@ export default function Projects() {
     {
       title: "Carlist",
       image: Carlist,
-      rep: "https://github.com/ScryptRG/car-list",
+      rep: "https://github.com/scryptxz/car-list",
       demo: "https://car-list-react.vercel.app",
       alt: "Interface do projeto Carlist",
       tools: "https://skillicons.dev/icons?i=react,js",
@@ -103,7 +103,7 @@ export default function Projects() {
     {
       title: "Fitclub",
       image: Fitclub,
-      rep: "https://github.com/ScryptRG/fitclub-app",
+      rep: "https://github.com/scryptxz/fitclub-app",
       demo: "https://appfitclub.vercel.app",
       alt: "Interface do projeto Fitclub",
       tools: "https://skillicons.dev/icons?i=nextjs,ts",
@@ -111,7 +111,7 @@ export default function Projects() {
     {
       title: "Hollowdle",
       image: Hollowdle,
-      rep: "https://github.com/ScryptRG/hollowdle",
+      rep: "https://github.com/scryptxz/hollowdle",
       demo: "https://hollowdle.vercel.app",
       alt: "Interface do projeto Hollowdle",
       tools: "https://skillicons.dev/icons?i=nextjs,ts",
@@ -119,7 +119,7 @@ export default function Projects() {
     {
       title: "Narilist",
       image: Narilist,
-      rep: "https://github.com/ScryptRG/narilist",
+      rep: "https://github.com/scryptxz/narilist",
       demo: "https://narilist.vercel.app",
       alt: "Interface do projeto Narilist",
       tools: "https://skillicons.dev/icons?i=angular,ts",
@@ -135,7 +135,7 @@ export default function Projects() {
     {
       title: "Projeto Orientado",
       image: ProjetoOrientado,
-      rep: "https://github.com/ScryptRG/projeto-orientado",
+      rep: "https://github.com/scryptxz/projeto-orientado",
       demo: "https://projeto-orientado-fatec.vercel.app",
       alt: "Interface do projeto Projeto Orientado",
       tools: "https://skillicons.dev/icons?i=html,css",
@@ -143,7 +143,7 @@ export default function Projects() {
     {
       title: "Patinhas que Brilham",
       image: PatinhasQueBrilham,
-      rep: "https://github.com/ScryptRG/patinhas-que-brilham",
+      rep: "https://github.com/scryptxz/patinhas-que-brilham",
       demo: "https://patinhas-que-brilham.vercel.app",
       alt: "Interface do projeto Patinhas que Brilham",
       tools: "https://skillicons.dev/icons?i=nextjs,ts",

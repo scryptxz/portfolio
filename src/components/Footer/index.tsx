@@ -23,11 +23,11 @@ export default function Footer() {
         <div className="flex gap-2 items-center">
           <FaGithub size={25} />
           <a
-            href="https://github.com/ScryptRG"
+            href="https://github.com/scryptxz"
             target="_blank"
             className="hover:underline"
           >
-            ScryptRG
+            scryptxz
           </a>
         </div>
       </div>
