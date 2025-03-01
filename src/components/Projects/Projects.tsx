@@ -4,6 +4,7 @@ import { FaGithub } from "react-icons/fa";
 // Projects background images
 import Adoptify from "../../assets/projects-images/adoptify.jpg";
 import Bertioga from "../../assets/projects-images/bertioga.jpg";
+import Beergam from "../../assets/projects-images/beergam.png";
 import Carlist from "../../assets/projects-images/carlist.jpg";
 import Danganfellas from "../../assets/projects-images/danganfellas.jpg";
 import Fitclub from "../../assets/projects-images/fitclub.png";
@@ -28,6 +29,14 @@ export default function Projects() {
     tools: string;
   }
   const projects: Projects[] = [
+    {
+      title: "Loja Beergam",
+      image: Beergam,
+      rep: "https://github.com/scryptxz/beergam",
+      demo: "https://loja-beergam.vercel.app",
+      alt: "Interface do projeto Loja Beergam",
+      tools: "https://skillicons.dev/icons?i=nextjs,ts",
+    },
     {
       title: "GuessYourLyrics",
       image: GuessYourLyrics,
@@ -171,7 +180,8 @@ export default function Projects() {
               <a
                 href={e.rep}
                 target="_blank"
-                className="flex items-center justify-center w-full gap-2 py-3 font-bold text-white bg-black font-main hover:bg-neutral-8 hover:bg-neutral-800 rep-btn">
+                className="flex items-center justify-center w-full gap-2 py-3 font-bold text-white bg-black font-main hover:bg-neutral-8 hover:bg-neutral-800 rep-btn"
+              >
                 Ver repositório
                 <span className="inline-block">
                   <FaGithub />
@@ -188,7 +198,8 @@ export default function Projects() {
             <a
               href={e.demo}
               target="_blank"
-              className="mt-3 font-semibold text-slate-600 hover:underline">
+              className="mt-3 font-semibold text-slate-600 hover:underline"
+            >
               Abrir website
               <FaArrowUpRightFromSquare
                 size={15}

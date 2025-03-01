@@ -22,9 +22,7 @@ function App() {
       </button>
       <div className="flex items-center justify-center min-h-screen">
         <div className="flex flex-col items-center gap-4 mx-4 text-center">
-          <h1 className="text-3xl font-title max-sm:text-2xl">
-            Renan de Almeida
-          </h1>
+          <h1 className="text-3xl font-title max-sm:text-2xl">Renan Almeida</h1>
           <h2 className="text-xl font-subtitle max-sm:text-xl">
             Desenvolvedor Full-stack
           </h2>
@@ -54,10 +52,10 @@ function App() {
         <p className="font-main leading-[2.4rem] w-[50%] text-justify max-xl:w-[80%] max-xl:text-base max-xl:text-center max-xl:leading-9">
           Meu nome é Renan Almeida, sou formado em Desenvolvimento de Sistemas
           pela ETEC Dra. Ruth Cardoso e atualmente estou cursando Sistemas para
-          Internet na FATEC Rubens Lara.Ao longo dos últimos
-          anos, tenho imergido no universo de desenvolvimento de websites,
-          aplicando e aprimorando constantemente meus conhecimentos através de
-          projetos acadêmico e pessoais, tendo conhecimento em tecnologias como
+          Internet na FATEC Rubens Lara.Ao longo dos últimos anos, tenho
+          imergido no universo de desenvolvimento de websites, aplicando e
+          aprimorando constantemente meus conhecimentos através de projetos
+          acadêmico e pessoais, tendo conhecimento em tecnologias como
           JavaScript, React, NodeJS, Next, Angular, PHP e MySQL, que são
           ferramentas fundamentais para desenvolvimento full-stack.
         </p>
